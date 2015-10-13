@@ -1,0 +1,15 @@
+git init
+git add
+git commit
+git commit -a -m "Commnet"
+gir branch <Branch Name>
+git checkout branch
+git checkout commitid
+git diff <oldercommit> <newcommit>
+git revert
+git log
+git log --oneline
+git status
+
+
+
